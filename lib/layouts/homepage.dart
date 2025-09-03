@@ -366,7 +366,7 @@ class _HomePageState extends State<HomePage> {
             ? const Center(child: CircularProgressIndicator())
             : DropdownButtonFormField<AreaModel>(
                 key: Key('area-dropdown-filter'),
-                value: _selectedArea,
+                initialValue: _selectedArea,
                 decoration: InputDecoration(
                   labelText: 'Area',
                   border: OutlineInputBorder(

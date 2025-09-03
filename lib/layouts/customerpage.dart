@@ -278,7 +278,7 @@ class _CustomerPageState extends State<CustomerPage> {
                           final list = snap.data!;
                           return DropdownButtonFormField<DocumentReference>(
                             key: Key('dropdown-area'),
-                            value: areaRef,
+                            initialValue: areaRef,
                             decoration: const InputDecoration(
                               labelText: 'Area',
                             ),
