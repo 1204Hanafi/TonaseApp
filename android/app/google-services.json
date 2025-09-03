@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393815018834",
+    "project_id": "tonase-asa-3392e",
+    "storage_bucket": "tonase-asa-3392e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393815018834:android:e86302fdb67cae3f0ffe8b",
+        "android_client_info": {
+          "package_name": "com.asa.tonase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATUFDKRtCU5yfOCoF7nuc5lJ0bXuUr3tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
